@@ -1,32 +1,409 @@
-[
+[ 
   {
-    "vin": "2C4RDGEG8HR658158",
-    "year": 2017,
-    "make": "Dodge",
-    "model": "Grand Caravan GT"
+    "vin" : "2C4RDGEG8HR658158" ,
+    "year" : 2017 ,
+    "make" : "Dodge" ,
+    "model" : "Grand Caravan GT"
   },
   {
-    "vin": "1FA6P8R06R5506669",
-    "year": 2024,
-    "make": "Ford",
-    "model": "Mustang Dark Horse"
+    "vin" : "2C3CDZKG3PH696525" ,
+    "year" : 2023 ,
+    "make" : "Dodge" ,
+    "model" : "Challenger GT"
   },
   {
-    "vin": "KMHLM4AG1NU315454",
-    "year": 2022,
-    "make": "Hyundai",
-    "model": "Elantra Preferred"
+    "vin" : "1C4RDJDG4RC240477" ,
+    "year" : 2024 ,
+    "make" : "Dodge" ,
+    "model" : "Durango GT"
   },
   {
-    "vin": "1C4RJHBG3SC267521",
-    "year": 2025,
-    "make": "Jeep",
-    "model": "Grand Cherokee Limited"
+    "vin" : "1C4SDJGJ1RC242471" ,
+    "year" : 2024 ,
+    "make" : "Dodge" ,
+    "model" : "Durango SRT 392"
   },
   {
-    "vin": "1C6SRFHP0SN613669",
-    "year": 2025,
-    "make": "RAM",
-    "model": "1500 Limited"
+    "vin" : "ZACNDFAN1R3A38438" ,
+    "year" : 2024 ,
+    "make" : "Dodge" ,
+    "model" : "Hornet GT"
+  },
+  {
+    "vin" : "ZACNDFBN7R3A09685" ,
+    "year" : 2024 ,
+    "make" : "Dodge" ,
+    "model" : "Hornet GT Plus"
+  },
+  {
+    "vin" : "ZACPDFCW0R3A26733" ,
+    "year" : 2024 ,
+    "make" : "Dodge" ,
+    "model" : "Hornet PHEV R/T"
+  },
+  {
+    "vin" : "ZACPDFDW2R3A26005" ,
+    "year" : 2024 ,
+    "make" : "Dodge" ,
+    "model" : "Hornet PHEV R/T Plus"
+  },
+  {
+    "vin" : "1C4RDJDG5SC516610" ,
+    "year" : 2025 ,
+    "make" : "Dodge" ,
+    "model" : "Durango GT"
+  },
+  {
+    "vin" : "3FMCR9G67RRF68062" ,
+    "year" : 2024 ,
+    "make" : "Ford" ,
+    "model" : "Bronco Sport Heritage"
+  },
+  {
+    "vin" : "3FMCR9C61RRE99603" ,
+    "year" : 2024 ,
+    "make" : "Ford" ,
+    "model" : "Bronco Sport Outer Banks"
+  },
+  {
+    "vin" : "1FMEE2BP4RLA52610" ,
+    "year" : 2024 ,
+    "make" : "Ford" ,
+    "model" : "Bronco Wildtrak"
+  },
+  {
+    "vin" : "1FTFW5L81RFB76010" ,
+    "year" : 2024 ,
+    "make" : "Ford" ,
+    "model" : "F-150 Lariat"
+  },
+  {
+    "vin" : "1FTEX1LP4RKD07107" ,
+    "year" : 2024 ,
+    "make" : "Ford" ,
+    "model" : "F-150 XL"
+  },
+  {
+    "vin" : "3FTTW8R93RRB29486" ,
+    "year" : 2024 , "make" : "Ford" ,
+    "model" : "Maverick Lariat"
+  },
+  {
+    "vin" : "1FA6P8R06R5506669" ,
+    "year" : 2024 ,
+    "make" : "Ford" ,
+    "model" : "Mustang Dark Horse"
+  },
+  {
+    "vin" : "1FT8X3AT9REF21906" ,
+    "year" : 2024 ,
+    "make" : "Ford" ,
+    "model" : "Super Duty F-350 SRW XL"
+  },
+  {
+    "vin" : "1FTBR1Y82RKB77276" ,
+    "year" : 2024 ,
+    "make" : "Ford" ,
+    "model" : "Transit Cargo Van T250"
+  },
+  {
+    "vin" : "1FMCU0GN4SUA65878" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "Escape Active"
+  },
+  {
+    "vin" : "1FMCU0E11SUA56247" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "Escape PHEV"
+  },
+  {
+    "vin" : "1FMCU9MN1SUA28764" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "Escape ST-Line"
+  },
+  {
+    "vin" : "1FMCU9PA2SUA40270" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "Escape ST-Line Elite"
+  },
+  {
+    "vin" : "1FMUK7DH0SGA13356" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "Explorer Active"
+  },
+  {
+    "vin" : "1FMUK8HH2SGB40402" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "Explorer Platinum"
+  },
+  {
+    "vin" : "1FMWK8GC4SGB07223" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "Explorer ST"
+  },
+  {
+    "vin" : "1FTEW2LP2SFA50018" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "F-150 STX"
+  },
+  {
+    "vin" : "1FTFW4L81SFA08433" ,
+    "year" : 2025 ,
+    "make" : "Ford" ,
+    "model" : "F-150 Tremor"
+  },
+  {
+    "vin" : "5NPE24AF1GH294533" ,
+    "year" : 2016 ,
+    "make" : "Hyundai" ,
+    "model" : "Sonata GLS"
+  },
+  {
+    "vin" : "KM8K6CAA4JU172974" ,
+    "year" : 2018 ,
+    "make" : "Hyundai" ,
+    "model" : "Kona Luxury"
+  },
+  {
+    "vin" : "KM8K1CAA0KU214248" ,
+    "year" : 2019 ,
+    "make" : "Hyundai" ,
+    "model" : "Kona Essential"
+  },
+  {
+    "vin" : "KM8K3CA55KU328047" ,
+    "year" : 2019 ,
+    "make" : "Hyundai" ,
+    "model" : "Kona Trend"
+  },
+  {
+    "vin" : "KMHLM4AG1MU104401" ,
+    "year" : 2021 ,
+    "make" : "Hyundai" ,
+    "model" : "Elantra Preferred"
+  },
+  {
+    "vin" : "KM8K23AG9MU119644" ,
+    "year" : 2021 ,
+    "make" : "Hyundai" ,
+    "model" : "Kona Electric Preferred"
+  },
+  {
+    "vin" : "KM8J3CA49MU303674" ,
+    "year" : 2021 ,
+    "make" : "Hyundai" ,
+    "model" : "Tucson Preferred"
+  },
+  {
+    "vin" : "KMHLM4AG1NU315454" ,
+    "year" : 2022 ,
+    "make" : "Hyundai" ,
+    "model" : "Elantra Preferred"
+  },
+  {
+    "vin" : "KM8R5DHE9NU448829" ,
+    "year" : 2022 ,
+    "make" : "Hyundai" ,
+    "model" : "Palisade Ultimate Calligraphy"
+  },
+  {
+    "vin" : "KMHL54JC9NA223973" ,
+    "year" : 2022 ,
+    "make" : "Hyundai" ,
+    "model" : "Sonata N Line"
+  },
+  {
+    "vin" : "KMHLM4AG9PU524038" ,
+    "year" : 2023 ,
+    "make" : "Hyundai" ,
+    "model" : "Elantra Essential"
+  },
+  {
+    "vin" : "KMHLM4AG9PU585373" ,
+    "year" : 2023 ,
+    "make" : "Hyundai" ,
+    "model" : "Elantra Preferred"
+  },
+  {
+    "vin" : "KMHM34AC8PA041842" ,
+    "year" : 2023 ,
+    "make" : "Hyundai" ,
+    "model" : "Ioniq 6 Preferred"
+  },
+  {
+    "vin" : "5NMS5DAL4PH633038" ,
+    "year" : 2023 ,
+    "make" : "Hyundai" ,
+    "model" : "Santa Fe Ultimate Calligraphy"
+  },
+  {
+    "vin" : "5NMS3DALXPH655499" ,
+    "year" : 2023 ,
+    "make" : "Hyundai" ,
+    "model" : "Santa Fe Urban"
+  },
+  {
+    "vin" : "KM8HB3AB1RU092333" ,
+    "year" : 2024 ,
+    "make" : "Hyundai" ,
+    "model" : "Kona Preferred"
+  },
+  {
+    "vin" : "1C4BJWEG0FL607652" ,
+    "year" : 2015 ,
+    "make" : "Jeep" ,
+    "model" : "Wrangler Unlimited Sahara"
+  },
+  {
+    "vin" : "1C4RJYB63P8784013" ,
+    "year" : 2023 ,
+    "make" : "Jeep" ,
+    "model" : "Grand Cherokee 4xe"
+  },
+  {
+    "vin" : "1C4PJXCG9RW177766" ,
+    "year" : 2024 ,
+    "make" : "Jeep" ,
+    "model" : "Wrangler Rubicon"
+  },
+  {
+    "vin" : "1C4PJXEG4RW318126" ,
+    "year" : 2024 ,
+    "make" : "Jeep" ,
+    "model" : "Wrangler Sahara"
+  },
+  {
+    "vin" : "3C4NJDBN0ST517985" ,
+    "year" : 2025 ,
+    "make" : "Jeep" ,
+    "model" : "Compass North"
+  },
+  {
+    "vin" : "1C4RJKBG2S8655341" ,
+    "year" : 2025 ,
+    "make" : "Jeep" ,
+    "model" : "Grand Cherokee L Limited"
+  },
+  {
+    "vin" : "1C4RJHBG3SC267521" ,
+    "year" : 2025 ,
+    "make" : "Jeep" ,
+    "model" : "Grand Cherokee Limited"
+  },
+  {
+    "vin" : "1C4PJXFN6SW506858" ,
+    "year" : 2025 ,
+    "make" : "Jeep" ,
+    "model" : "Wrangler Rubicon"
+  },
+  {
+    "vin" : "1C4PJXEN0SW506856" ,
+    "year" : 2025 ,
+    "make" : "Jeep" ,
+    "model" : "Wrangler Sahara"
+  },
+  {
+    "vin" : "1C4PJXAG2SW540949" ,
+    "year" : 2025 ,
+    "make" : "Jeep" ,
+    "model" : "Wrangler Sport"
+  },
+  {
+    "vin" : "1C6RR7LGXPS575954" ,
+    "year" : 2023 ,
+    "make" : "RAM" ,
+    "model" : "1500 Classic SLT"
+  },
+  {
+    "vin" : "1C6SRFTT8PN635480" ,
+    "year" : 2023 ,
+    "make" : "RAM" ,
+    "model" : "1500 Sport"
+  },
+  {
+    "vin" : "1C6RR7KT5RS195745" ,
+    "year" : 2024 ,
+    "make" : "RAM" ,
+    "model" : "1500 Classic Tradesman"
+  },
+  {
+    "vin" : "1C6RR7LT5RS191399" ,
+    "year" : 2024 ,
+    "make" : "RAM" ,
+    "model" : "1500 Classic Warlock"
+  },
+  {
+    "vin" : "3C6UR5DL8RG179588" ,
+    "year" : 2024 ,
+    "make" : "RAM" ,
+    "model" : "2500 Big Horn"
+  },
+  {
+    "vin" : "3C63R3GL4RG396373" ,
+    "year" : 2024 ,
+    "make" : "RAM" ,
+    "model" : "3500 Tradesman"
+  },
+  {
+    "vin" : "3C7WRMDL5RG352692" ,
+    "year" : 2024 ,
+    "make" : "RAM" ,
+    "model" : "5500 Chassis Tradesman/SLT"
+  },
+  {
+    "vin" : "1C6RRFFG4SN642304" ,
+    "year" : 2025 ,
+    "make" : "RAM" ,
+    "model" : "1500 Big Horn"
+  },
+  {
+    "vin" : "1C6SRFJP1SN644813" ,
+    "year" : 2025 ,
+    "make" : "RAM" ,
+    "model" : "1500 Laramie"
+  },
+  {
+    "vin" : "1C6SRFHP0SN613669" ,
+    "year" : 2025 ,
+    "make" : "RAM" ,
+    "model" : "1500 Limited"
+  },
+  {
+    "vin" : "1C6SRFLP2SN650519" ,
+    "year" : 2025 ,
+    "make" : "RAM" ,
+    "model" : "1500 Rebel"
+  },
+  {
+    "vin" : "1C6SRFTPXSN670842" ,
+    "year" : 2025 ,
+    "make" : "RAM" ,
+    "model" : "1500 Sport"
+  },
+  {
+    "vin" : "1C6SRFKP0SN661200" ,
+    "year" : 2025 ,
+    "make" : "RAM" ,
+    "model" : "1500 Tungsten"
+  },
+  {
+    "vin" : "3C6LRVCG1SE502770" ,
+    "year" : 2025 ,
+    "make" : "RAM" ,
+    "model" : "ProMaster 2500 High Roof"
+  },
+  {
+    "vin" : "3C6MRVHG1SE502927" ,
+    "year" : 2025 ,
+    "make" : "RAM" ,
+    "model" : "ProMaster 3500 High Roof"
   }
 ]
