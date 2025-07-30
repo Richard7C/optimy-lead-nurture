@@ -1,0 +1,172 @@
+[
+  {
+    "name": "New/Used Vehicle",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer was asking about buying a {{year}} {{make}} {{model}}, they're worried about the range in winter but interested"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 2 },
+      { "days_since_first_interaction": 3 }
+    ]
+  },
+  {
+    "name": "Lease Inquiry",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer was asking about leasing a vehicle, they're worried about the range in winter but interested"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 3 },
+      { "days_since_first_interaction": 7 }
+    ]
+  },
+  {
+    "name": "Test Drive Inquiry",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer was asking about test driving a {{year}} {{make}} {{model}}, they're worried about the range in winter but interested"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 3 },
+      { "days_since_first_interaction": 7 }
+    ]
+  },
+  {
+    "name": "Special Offer/Event",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer was asking about our special offer to get a great deal on a new Vehicle"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 10 },
+      { "days_since_first_interaction": 30 }
+    ]
+  },
+  {
+    "name": "Trade-In Inquiry",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer was asking about a {{year}} {{make}} {{model}} but the price is high, they wanted to trade in their Tesla model 3 and wanted to know how much they would get"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 2 },
+      { "days_since_first_interaction": 3 }
+    ]
+  },
+  {
+    "name": "Credit/Finance Inquiry",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer was asking about a {{year}} {{make}} {{model}} they will need credit or financing to pay for it and wanted to know what their options were"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 2 },
+      { "days_since_first_interaction": 3 }
+    ]
+  },
+  {
+    "name": "Pricing",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer was asking about a {{year}} {{make}} {{model}} and wanted to know what the price was"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 3 },
+      { "days_since_first_interaction": 7 }
+    ]
+  },
+  {
+    "name": "General Inquiry",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer wanted to know what car would be a good one for them"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 3 },
+      { "days_since_first_interaction": 7 }
+    ]
+  },
+  {
+    "name": "Website Lead Form",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "website",
+        "direction": "incoming",
+        "summary": "Customer filled out lead form on website asking about available vehicles"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 3 },
+      { "days_since_first_interaction": 7 }
+    ]
+  },
+  {
+    "name": "Service",
+    "license_id": "126",
+    "dealership_name": "Optimy Dealership",
+    "interaction_history": [
+      {
+        "medium": "sms",
+        "direction": "incoming",
+        "summary": "Customer was asking about service options and maintenance for their vehicle"
+      }
+    ],
+    "iterations": [
+      { "days_since_first_interaction": 1 },
+      { "days_since_first_interaction": 3 },
+      { "days_since_first_interaction": 7 }
+    ]
+  }
+]
