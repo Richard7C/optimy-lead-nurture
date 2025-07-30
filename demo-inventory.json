@@ -1,0 +1,32 @@
+[
+  {
+    "vin": "2C4RDGEG8HR658158",
+    "year": 2017,
+    "make": "Dodge",
+    "model": "Grand Caravan GT"
+  },
+  {
+    "vin": "1FA6P8R06R5506669",
+    "year": 2024,
+    "make": "Ford",
+    "model": "Mustang Dark Horse"
+  },
+  {
+    "vin": "KMHLM4AG1NU315454",
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Elantra Preferred"
+  },
+  {
+    "vin": "1C4RJHBG3SC267521",
+    "year": 2025,
+    "make": "Jeep",
+    "model": "Grand Cherokee Limited"
+  },
+  {
+    "vin": "1C6SRFHP0SN613669",
+    "year": 2025,
+    "make": "RAM",
+    "model": "1500 Limited"
+  }
+]
